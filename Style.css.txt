@@ -1,0 +1,63 @@
+/* ===== Global Styles ===== */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif; /* Arial font */
+  background: #f4f7fb;
+  color: #222;
+  line-height: 1.6;
+}
+
+
+header, section {
+  max-width: 900px;
+  margin: 1.5rem auto;
+  padding: 1rem 1.5rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+
+h1, h2 {
+  margin-top: 0;
+  color: #2563eb;
+}
+
+
+.row { margin: .4rem 0; }
+
+
+.highlight {
+  background: #2563eb;
+  color: #fff;
+  padding: .4rem .8rem;
+  border-radius: 6px;
+  display: inline-block;
+}
+
+
+ul { margin: .5rem 0 0 1.2rem; }
+
+
+/* ===== Footer ===== */
+footer {
+  text-align: center;
+  padding: 1rem;
+  color: #555;
+}
+
+
+/* ===== Back to top button ===== */
+#toTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  display: none;
+}
+#toTop.show { display: block; }

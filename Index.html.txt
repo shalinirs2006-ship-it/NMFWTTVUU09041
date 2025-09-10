@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Portfolio Project - Shalini R</title>
+
+
+  <!-- Link CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+  <!-- ===== Title ===== -->
+  <header>
+    <h1>Interactive Portfolio Project Using HTML CSS And JavaScript</h1>
+    <p class="highlight">By Shalini R</p>
+  </header>
+
+
+  <!-- ===== Slide 1: Introduction ===== -->
+  <section>
+    <h2>1. Introduction</h2>
+    <div class="row"><strong>Name:</strong> Shalini R</div>
+    <div class="row"><strong>Location:</strong> 788, Bengaluru Main Road, Melchengam, Chengam (Tk), Thiruvannamalai (District)</div>
+    <div class="row"><strong>Mobile:</strong> 8015721636</div>
+    <div class="row"><strong>Email:</strong> shalinirs2006@gmail.com</div>
+  </section>
+
+
+  <!-- ===== Slide 2: Career Objective ===== -->
+  <section>
+    <h2>2. Career Objective</h2>
+    <p>To pursue a career in <strong>IT</strong> & <strong>Google CEO</strong> and <strong>Gamer</strong>, build a successful future while inspiring others.</p>
+  </section>
+
+
+  <!-- ===== Slide 3: Dream Project ===== -->
+  <section>
+    <h2>3. Dream Project / Future Profile</h2>
+    <div class="row"><strong>Founder:</strong> “Building simple solution for smart problems”</div>
+    <div class="row"><strong>Tagline:</strong> Live your life as your wish.</div>
+  </section>
+
+
+  <!-- ===== Slide 4: Education ===== -->
+  <section>
+    <h2>4. Education</h2>
+    <p><strong>Bachelor of Computer Applications (B.C.A.)</strong></p>
+    <p>Location: Arakkonam, Attupakkam</p>
+    <p>University: Thiruvalluvar University</p>
+  </section>
+
+
+  <!-- ===== Slide 5: Skills ===== -->
+  <section>
+    <h2>5. Skills</h2>
+    <ul>
+      <li>English Communication (Mudhalvan Course)</li>
+      <li>Python (Basic)</li>
+      <li>HTML & CSS</li>
+      <li>Creativity</li>
+      <li>Basic Computer Skills</li>
+      <li>Internet & Email Handling</li>
+    </ul>
+  </section>
+
+
+  <!-- ===== Slide 6: Projects & Achievements ===== -->
+  <section>
+    <h2>6. Projects & Achievements</h2>
+    <p>✅ Project Completed: English Communications</p>
+    <p>🏆 Achievement: Well build my career</p>
+  </section>
+
+
+  <!-- ===== Slide 7: Languages ===== -->
+  <section>
+    <h2>7. Languages Known</h2>
+    <ul>
+      <li>Tamil – Read & Write</li>
+      <li>English – Read & Write</li>
+    </ul>
+  </section>
+
+
+  <!-- ===== Slide 8: Learning & Inspiration ===== -->
+  <section>
+    <h2>8. Learning & Inspiration</h2>
+    <p>✔ Completed <strong>Mudhalvan Course</strong> – English Communication skills</p>
+    <p>✔ Inspired by <strong>MS Dhoni</strong> — His humble beginnings, exceptional leadership, and dedication to cricket motivate people to pursue their passions and stay grounded despite success. A true legend and role model.</p>
+  </section>
+
+
+  <!-- ===== Footer ===== -->
+  <footer>
+    © <span id="year"></span> Shalini R — Interactive Portfolio
+  </footer>
+
+
+  <!-- Back to top button -->
+  <button id="toTop">⬆ Top</button>
+
+
+  <!-- Link JS -->
+  <script src="script.js"></script>
+</body>
+</html>
